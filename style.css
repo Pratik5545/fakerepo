@@ -34,3 +34,14 @@ body {
 #increment-btn:hover {
     background-color: #0056b3;
 }
+#reset-btn {
+    height: 32px;
+    width: 55px;
+    border-radius: 8px;
+    background-color: #dc3545; /* Red color */
+    margin-left: 10px;
+}
+
+#reset-btn:hover {
+    background-color: #e4740c;
+}
